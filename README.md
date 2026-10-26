@@ -1,6 +1,6 @@
 # Digital Attendance System
 
-A simple web-based attendance management system designed for Harsha Institution of Management Studies. It helps faculty members mark student attendance quickly, search students, and export daily attendance records as CSV files.
+A simple web-based attendance management system designed for Harsha Institution of Management Studies. It helps faculty members mark student attendance quickly, search students, and export daily attendance records.
 
 ## Features
 
@@ -22,7 +22,7 @@ A simple web-based attendance management system designed for Harsha Institution 
 
 ## Live Demo
 
-https://abinkr.github.io/attendance_project/
+[Open Live Demo](https://abinkr.github.io/attendance_project/)
 
 ## Project Structure
 
@@ -102,4 +102,4 @@ This project is currently provided for educational/demo use. Please check the re
 
 ## Security Note
 
-This application is a prototype. The current login system uses hardcoded credentials and is not suitable for real-world production use. For real deployment, use secure authentication, hashing, HTTPS, and backend validation.
+This application is a prototype. The current login system uses hardcoded credentials and is not suitable for real-world production use. For real deployment, use secure authentication, hashing, HTTPS, and a backend database.
